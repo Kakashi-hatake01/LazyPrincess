@@ -76,13 +76,9 @@ Here is the help for my COMMANDS."""
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v10.0.0 [ 𝙱𝙴𝚃𝙰 ]"""
 
-    SOURCE_TXT = """<b>NOTE:</b>
-- Lazy Princess is an open source project. 
-- Source - https://github.com/LazyDeveloperr/LazyPrincess  
-- Please give a star to this repo after fork. Salute to <a href=https://t.me/LazyDeveloperr>LazyDeveloper</a> for adding extra features in me.
 
 <b>DEV:</b>
-- 🦋 <a href=https://t.me/dank_society>dank_society</a> 🦋"""
+- 🦋 <a href=https://t.me/XXVII_DEC_MMV>dank_society</a> 🦋"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and LazyPriness will respond whenever that keyword hits the message
@@ -107,7 +103,7 @@ Here is the help for my COMMANDS."""
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/dank_society)</code>
+<code>[Button Text](buttonurl:https://t.me/XXVII_DEC_MMV)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
